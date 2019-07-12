@@ -1,6 +1,6 @@
 {
 	"require": {
-        "omkoding/cot": "^1.1",
+        "omkoding/cot": "^1.2",
 		"tightenco/collect": "^5.8"
     },
 	"require-dev": {

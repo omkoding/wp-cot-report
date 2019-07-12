@@ -1,0 +1,24 @@
+{
+	"name": "omkoding/cot",
+	"type": "package",
+	"require": {
+        "php": "^7.1.3",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OmKoding\\Cot\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "OmKoding\\Cot\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+	"require-dev": {
+		"symfony/var-dumper": "^4.3",
+		"phpunit/phpunit": "^7.5"
+	}
+}

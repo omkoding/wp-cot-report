@@ -194,17 +194,17 @@
     },
     {
         "name": "omkoding/cot",
-        "version": "v1.1",
-        "version_normalized": "1.1.0.0",
+        "version": "v1.2",
+        "version_normalized": "1.2.0.0",
         "source": {
             "type": "git",
             "url": "https://github.com/omkoding/cot-report-parser.git",
-            "reference": "56f041f265fcc27fd27d14b098fd0a94f9291d5d"
+            "reference": "2c682dd1c30f4f1861baf5c69debe6cfc2a7bdb1"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/omkoding/cot-report-parser/zipball/56f041f265fcc27fd27d14b098fd0a94f9291d5d",
-            "reference": "56f041f265fcc27fd27d14b098fd0a94f9291d5d",
+            "url": "https://api.github.com/repos/omkoding/cot-report-parser/zipball/2c682dd1c30f4f1861baf5c69debe6cfc2a7bdb1",
+            "reference": "2c682dd1c30f4f1861baf5c69debe6cfc2a7bdb1",
             "shasum": ""
         },
         "require": {
@@ -215,7 +215,7 @@
             "phpunit/phpunit": "^7.5",
             "symfony/var-dumper": "^4.3"
         },
-        "time": "2019-07-08T14:02:06+00:00",
+        "time": "2019-07-12T14:35:57+00:00",
         "type": "package",
         "installation-source": "dist",
         "autoload": {

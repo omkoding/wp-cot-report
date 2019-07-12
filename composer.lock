@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "db40494af5bf4f832f39cc342ff6792f",
+    "content-hash": "838a7f121ab2e70d4d68a63a4d6ca903",
     "packages": [
         {
             "name": "guzzlehttp/guzzle",
@@ -195,16 +195,16 @@
         },
         {
             "name": "omkoding/cot",
-            "version": "v1.1",
+            "version": "v1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/omkoding/cot-report-parser.git",
-                "reference": "56f041f265fcc27fd27d14b098fd0a94f9291d5d"
+                "reference": "2c682dd1c30f4f1861baf5c69debe6cfc2a7bdb1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/omkoding/cot-report-parser/zipball/56f041f265fcc27fd27d14b098fd0a94f9291d5d",
-                "reference": "56f041f265fcc27fd27d14b098fd0a94f9291d5d",
+                "url": "https://api.github.com/repos/omkoding/cot-report-parser/zipball/2c682dd1c30f4f1861baf5c69debe6cfc2a7bdb1",
+                "reference": "2c682dd1c30f4f1861baf5c69debe6cfc2a7bdb1",
                 "shasum": ""
             },
             "require": {
@@ -222,7 +222,7 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2019-07-08T14:02:06+00:00"
+            "time": "2019-07-12T14:35:57+00:00"
         },
         {
             "name": "psr/http-message",
