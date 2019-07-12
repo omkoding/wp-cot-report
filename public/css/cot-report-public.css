@@ -1,0 +1,53 @@
+#cot-page[v-cloak] > * {
+  display: none;
+}
+
+#cot-page[v-cloak]::before {
+  content: "Loading report ..";
+}
+
+#cot-page h2 {
+	font-size: 17px;
+}
+
+#cot-page h3 {
+	font-size: 17px;	
+}
+
+#cot-page .cot-year {
+	margin: 0 5px;
+}
+
+#cot-page th {
+	font-weight: 300;
+}
+
+#cot-page td {
+	font-size: 15px;
+}
+
+#cot-page .has-text-danger {
+	color: hsl(348, 100%, 61%);
+}
+
+#cot-page .has-text-success {
+	color: hsl(141, 71%, 48%);
+}
+
+#cot-page .has-text-centered {
+	text-align: center !important;
+}
+
+#cot-page .has-text-right {
+	text-align: right !important;
+}
+
+@media only screen and (max-width: 767px) {
+	#cot-page .cot-table {
+		margin-bottom: 0;
+		overflow: hidden;
+		overflow-x: scroll;
+		display: block;
+		white-space: nowrap;
+	}
+}
